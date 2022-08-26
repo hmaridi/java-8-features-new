@@ -7,6 +7,7 @@ Stream API
 Date/Time API Changes
 Method references
 
+
 2.What are the main advantages of using Java8
 ----------------------------------------------
 More compact code
